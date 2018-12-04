@@ -4,7 +4,7 @@
 
 # Education
 **Doctor of Philosophy, Genetics and Genome Sciences**, Case Western Reserve University (2012-2018)        
-**Bachelor of Science, Genomics and Molecular Genetics, minor in Mathematics**, Michigan State University(2008-2012)
+**Bachelor of Science, Genomics and Molecular Genetics**, w/ minor in Mathematics, Michigan State University (2008-2012)
 
 # Research
 I received my bachelor’s degree in Genomics and Molecular Genetics with a minor in Mathematics from Michigan State University in 2012. With an interest in computational genomics, I earned my doctoral degree in Genetics and Genome Sciences while working in [Dr. Thomas LaFramboise](http://mendel.gene.cwru.edu/laframboiselab/)’s lab at Case Western Reserve University.
