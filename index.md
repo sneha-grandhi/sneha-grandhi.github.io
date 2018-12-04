@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Sneha Grandhi
+## Skillset
+**R | Unix | Shell Scripting | Awk | Python**
 
-You can use the [editor on GitHub](https://github.com/sneha-grandhi/sneha-grandhi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bioinformatics | Computational Biology | Evolutionary Genomics | Data Mining | Next Generation Sequencing | Big Data | Data Visualization | Grant Writing | Public Speaking
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
 
-### Markdown
+I am a highly enthusiastic and creative scientist investigating selective pressures placed on the human genome. I’ve garnered significant skills in bioinformatics, computational genomics, data mining, next generation sequencing, cell culture, grant writing, and public speaking.       
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Background
 
-```markdown
-Syntax highlighted code block
+I received my bachelor’s degree in Genomics and Molecular Genetics with a minor in Mathematics from Michigan State University in 2012. With an interest in computational genomics, I joined [Dr. Thomas LaFramboise](http://mendel.gene.cwru.edu/laframboiselab/)’s lab at Case Western Reserve University where I went on to earn my doctoral degree in Genetics and Genome Sciences in 2018.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sneha-grandhi/sneha-grandhi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+During my graduate career, I acquired a strong skillset in big data analysis and biostatistics, which was funded by two graduate research fellowships from NIH ([NCI F31 NRSA](https://projectreporter.nih.gov/project_info_details.cfm?aid=9290948&icde=42267630&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) and [NIGMS CMBTP](https://projectreporter.nih.gov/project_info_description.cfm?aid=8885837&map=y)) and resulted in six peer-reviewed scientific publications, two freeware software packages, two productive collaborations, and several awards (see below).
