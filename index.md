@@ -8,7 +8,9 @@ I am a highly enthusiastic and creative scientist investigating selective pressu
 
 # Education
 **Harvard Medical School**, Department of Genetics: Postdoctoral Researcher (Current) 
+
 **Case Western Reserve University**, Department of Genetics and Genome Sciences: Ph.D. (2012-2018)
+
 **Michigan State University**, Department of Genomics and Molecular Genetics: B.S., minor in Mathematics (2008-2012)
 
 # Research
