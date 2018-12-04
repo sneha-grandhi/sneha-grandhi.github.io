@@ -1,4 +1,3 @@
-# Sneha Grandhi
 ## Skillset
 **R | Unix | Shell Scripting | Awk | Python**
 
