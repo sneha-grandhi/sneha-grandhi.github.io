@@ -10,7 +10,7 @@ Postdoctoral Researcher at Harvard Medical School [(Wu lab)](http://transvection
 **Bachelor of Science, Genomics and Molecular Genetics**, w/ minor in Mathematics, Michigan State University (2008-2012)
 
 # Funding
-Awarded individual research grant accruing $90,741 ([NCI F31 NRSA])(https://projectreporter.nih.gov/project_info_details.cfm?aid=9290948&icde=42267630&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) and competitive training grant accruing $56,000  ([NIGMS CMBTP])(https://projectreporter.nih.gov/project_info_description.cfm?aid=8885837&map=y) from the National Institute of Health to fund my graduate research career.
+Awarded individual research grant accruing $90,741 [(NCI F31 NRSA)](https://projectreporter.nih.gov/project_info_details.cfm?aid=9290948&icde=42267630&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) and competitive training grant accruing $56,000  [(NIGMS CMBTP)](https://projectreporter.nih.gov/project_info_description.cfm?aid=8885837&map=y) from the National Institute of Health to fund my graduate research career.
 
 # Background
 I received my bachelor’s degree in Genomics and Molecular Genetics with a minor in Mathematics from Michigan State University in 2012. With an interest in computational genomics, I earned my doctoral degree in Genetics and Genome Sciences while working in [Dr. Thomas LaFramboise](http://mendel.gene.cwru.edu/laframboiselab/)’s lab at Case Western Reserve University.
