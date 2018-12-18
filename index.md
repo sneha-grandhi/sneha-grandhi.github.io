@@ -10,7 +10,7 @@ Postdoctoral Researcher at Harvard Medical School [(Wu lab)](http://transvection
 **Bachelor of Science, Genomics and Molecular Genetics**, w/ minor in Mathematics, Michigan State University (2008-2012)
 
 # Funding
-Awarded individual research grant accruing $90,741 ([NCI F31 NRSA](https://projectreporter.nih.gov/project_info_details.cfm?aid=9290948&icde=42267630&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) and competitive training grant accruing $56,000  [NIGMS CMBTP](https://projectreporter.nih.gov/project_info_description.cfm?aid=8885837&map=y)) from the National Institute of Health to fund my graduate research career.
+Awarded individual research grant accruing $90,741 ([NCI F31 NRSA])(https://projectreporter.nih.gov/project_info_details.cfm?aid=9290948&icde=42267630&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) and competitive training grant accruing $56,000  ([NIGMS CMBTP])(https://projectreporter.nih.gov/project_info_description.cfm?aid=8885837&map=y) from the National Institute of Health to fund my graduate research career.
 
 # Background
 I received my bachelor’s degree in Genomics and Molecular Genetics with a minor in Mathematics from Michigan State University in 2012. With an interest in computational genomics, I earned my doctoral degree in Genetics and Genome Sciences while working in [Dr. Thomas LaFramboise](http://mendel.gene.cwru.edu/laframboiselab/)’s lab at Case Western Reserve University.
@@ -30,7 +30,7 @@ Human Molecular Genetics, ddx172.
 Bosworth, C. M., Grandhi, S., Gould, M. P., & LaFramboise, T. (2017). 
 BMC bioinformatics, 18(12), 407.
 
-4. Phylogenetic sequence analysis and functional studies reveal compensatory amino acid substitutions in loop 2 of human ribonu`cleotide reductase. 
+4. Phylogenetic sequence analysis and functional studies reveal compensatory amino acid substitutions in loop 2 of human ribonucleotide reductase. 
 Knappenberger, A. J., Grandhi, S., Sheth, R., Ahmad, M. F., Viswanathan, R., & Harris, M. E. (2017). 
 Journal of Biological Chemistry, 292(40), 16463-16476.
 
@@ -44,6 +44,4 @@ PloS one, 11(5), e0156884.ome.
 
 # Selected Awards
 - 2018 Doctoral Excellence Award (Genetics) April 2018 – Issued by CWRU School of Medicine Graduate Program Directors
-- NIH NCI F31 Ruth L. Kirschstein NRSA Individual Predoctoral Fellowship (May 2016 – June 2018) Funded by the National Cancer Institute, received this award for the duration of three years, rescinded the last year upon graduation.
-- NIH NIGMS Cell and Molecular Biology Training Grant (July 2015 – June 2016) Funded by the National Institute for General Medical Sciences, this inter-departmental award supports eight pre-doctoral students per year within CWRU’s School of Medicine who display exceptional academic and research potential.
 - Charles J. Epstein Trainee Award for Excellence in Human Genetics Research (ASHG Semifinalist) (Oct 2016) Merit-based award issued by the American Society of Human Genetics Program Committee to top-scoring and highly competitive abstracts.
