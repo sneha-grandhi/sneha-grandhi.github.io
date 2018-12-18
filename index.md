@@ -19,27 +19,27 @@ During my graduate career, I acquired a strong skillset in big data analysis and
 
 # Peer-reviewed Publications
 1. Mitochondrial genomics in the cancer cell line encyclopedia and a scoring method to effectively pair cell lines for cytoplasmic hybridization.
-Grandhi, S., L., Wang, J., Grandhi, A., & LaFramboise, T. (2018). 
+**Grandhi, S.**, L., Wang, J., Grandhi, A., & LaFramboise, T. (2018). 
 Mitochondrion.
 
 2. Heteroplasmic shifts in tumor mitochondrial genomes reveal tissue-specific signals of relaxed and positive selection. 
-Grandhi, S.,Bosworth, C., Maddox, W., Sensiba, C., Akhavanfard, S., Ni, Y., & LaFramboise, T. (2017).
+**Grandhi, S.**, Bosworth, C., Maddox, W., Sensiba, C., Akhavanfard, S., Ni, Y., & LaFramboise, T. (2017).
 Human Molecular Genetics, ddx172.
 
 3. Detection and quantification of mitochondrial DNA deletions from next-generation sequence data. 
-Bosworth, C. M., Grandhi, S., Gould, M. P., & LaFramboise, T. (2017). 
+Bosworth, C. M., **Grandhi, S.**, Gould, M. P., & LaFramboise, T. (2017). 
 BMC bioinformatics, 18(12), 407.
 
 4. Phylogenetic sequence analysis and functional studies reveal compensatory amino acid substitutions in loop 2 of human ribonucleotide reductase. 
-Knappenberger, A. J., Grandhi, S., Sheth, R., Ahmad, M. F., Viswanathan, R., & Harris, M. E. (2017). 
+Knappenberger, A. J., **Grandhi, S.**, Sheth, R., Ahmad, M. F., Viswanathan, R., & Harris, M. E. (2017). 
 Journal of Biological Chemistry, 292(40), 16463-16476.
 
 5. Selected mitochondrial DNA landscapes activate the SIRT3 axis of the UPR mt to promote metastasis. 
-Kenny, T. C., Hart, P., Ragazzi, M., Sersinghe, M., Chipuk, J., Sagar, M. A., Eliceiri, K.W., LaFramboise, T., Grandhi, S., Santos, J., & Riar, A. K. (2017). 
+Kenny, T. C., Hart, P., Ragazzi, M., Sersinghe, M., Chipuk, J., Sagar, M. A., Eliceiri, K.W., LaFramboise, T., **Grandhi, S.**, Santos, J., & Riar, A. K. (2017). 
 Oncogene, 36(31), 4393.
 
 6. PCR-Free Enrichment of Mitochondrial DNA from Human Blood and Cell Lines for High Quality Next-Generation DNA Sequencing. 
-•	Gould, M. P., Bosworth, C. M., McMahon, S., Grandhi, S., Grimberg, B. T., & LaFramboise, T. (2016). 
+•	Gould, M. P., Bosworth, C. M., McMahon, S., **Grandhi, S.**, Grimberg, B. T., & LaFramboise, T. (2016). 
 PloS one, 11(5), e0156884.ome.
 
 # Selected Awards
